@@ -22,6 +22,6 @@ GitHub (https://github.com/ANKM0)
 [ポートフォリオ](https://gist.github.com/ANKM0/512ff5884492d7e14cc34f35efb610e0/)
 
 ### 制作物一覧
-・[健康観察を自動入力するシステムとサイト](https://github.com/ANKM0/showcase/tree/main/auto_kenkou_kansatu)<br>
-・[クレジットカード使用履歴をLineに送るシステム](https://github.com/ANKM0/showcase/tree/main/remote_mitsui_sumitomo_card)<br>
+・[健康観察を自動入力するシステムとサイト](https://github.com/ANKM0/auto_kenkou_kansatu)<br>
+・[クレジットカード使用履歴をLineに送るシステム](https://github.com/ANKM0/send_credit_card_history_to_line)<br>
 ・[会社情報収集クローラー](https://github.com/ANKM0/showcase/tree/main/listing)<br>

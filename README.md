@@ -18,6 +18,7 @@ GitHub (https://github.com/ANKM0)
 作業内容はホームページ移設・事業効率化など<br>
 
 ## 制作物
+※上から見てほしい順に並べています
 ・[健康観察を自動入力するシステムとサイト](https://github.com/ANKM0/auto_kenkou_kansatu)<br>
 ・[クレジットカード使用履歴をLineに送るシステム](https://github.com/ANKM0/send_credit_card_history_to_line)<br>
 ・[会社情報収集クローラー](https://github.com/ANKM0/listing_comany_info_clawler)<br>

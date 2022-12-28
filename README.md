@@ -7,7 +7,7 @@ GitHub (https://github.com/ANKM0) <br>
 Qiita (https://qiita.com/ANKIM0)
 
 ## 職歴
-### 合同会社エクバタナ
+### 合同会社カフェラテ
 2022 3月~現在<br>
 アルバイトとして勤務<br>
 詳細設計、開発、テストを担当しています <br>

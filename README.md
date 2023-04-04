@@ -3,8 +3,9 @@
 得意分野はDjangoとSelenium
 
 ## SNS
-GitHub (https://github.com/ANKM0) <br>
-Qiita (https://qiita.com/ANKIM0)
+
+- [GitHub](https://github.com/ANKM0)
+- [Qiita](https://qiita.com/ANKM0)
 
 ## 職歴
 ### 合同会社エクバタナ

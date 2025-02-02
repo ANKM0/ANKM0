@@ -1,25 +1,19 @@
-## 自己紹介
-プログラムで効率化すること、問題を解決することが大好き<br>
-得意分野はDjangoとSelenium
+## Skills
+
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=ts,js,jquery,jest,html,css,python,django,flask,selenium,linux,git,github,githubactions" />
+
+## Status
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-clone-sooty-rho.vercel.app/api/top-langs/?username=ANKM0&layout=compact&theme=vue-dark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats-clone-sooty-rho.vercel.app/api?username=ANKM0&theme=vue-dark&show_icons=true" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ANKM0&column=-1&theme=onedark&count_private=true&show_icons=true&title=-Stars,-Followers,-Repositories,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## SNS
 
-- [GitHub](https://github.com/ANKM0)
 - [Qiita](https://qiita.com/ANKM0)
-
-## 職歴
-### 合同会社カフェラテ
-2022 3月~現在<br>
-アルバイトとして勤務<br>
-詳細設計、開発、テストを担当しています <br>
-主にDjango・クローラー関連のプロジェクトに参加しています <br>
-
-### 業務委託
-2022 7月~2022 12月<br>
-建築関係の会社から案件を貰っています <br>
-作業内容はホームページ移設・事業効率化・データの見える化などです <br>
-
-
 
 ## 制作物
 ※上から見てほしい順に並べています <br>

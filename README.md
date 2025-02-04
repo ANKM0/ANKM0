@@ -9,8 +9,6 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats-clone-sooty-rho.vercel.app/api?username=ANKM0&theme=vue-dark&show_icons=true" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ANKM0&column=-1&theme=onedark&count_private=true&show_icons=true&title=-Stars,-Followers,-Repositories,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## SNS
 
 - [Qiita](https://qiita.com/ANKM0)
